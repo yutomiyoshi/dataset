@@ -1,3 +1,5 @@
 docker-compose.yml
 Dockerfile
 dataset.json
+results
+.ipynb_checkpoints
